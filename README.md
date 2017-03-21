@@ -1,6 +1,7 @@
 ng-ismobile - AngularJS module to check screen is of mobile or not
 =======
 
+[![Build Status](https://travis-ci.org/rob-in/ng-ismobile.svg?branch=master)](https://travis-ci.org/rob-in/ng-ismobile)
 
 A simple AngularJS module that checks your browser's screen size and return you true or false on the basis of below condition.
 
@@ -23,9 +24,6 @@ bower install ng-ismobile
 npm install ng-ismobile
 ```
 -->
-
-#### CDN
-ng-clip is available at [cdnjs](http://www.cdnjs.com/libraries/ng-ismobile)
 
 
 ## Usage
