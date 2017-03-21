@@ -45,7 +45,7 @@ ng-clip is available at [cdnjs](http://www.cdnjs.com/libraries/ng-ismobile)
   $rootScope.IS_MOBILE_SCREEN === true; //current browser is of mobile
   $rootScope.IS_MOBILE_SCREEN === false; //current browser is of tablet/desktop/other
   ```
-<!-- 
+<!--
 
 ## Examples
 You can check out this live example here: http://plnkr.co/ -->
@@ -53,4 +53,4 @@ You can check out this live example here: http://plnkr.co/ -->
 
 ## Credits
 This project was initially forked from the application template seed here
-[https://github.com/refactorthis/angular-component-seed.git](https://github.com/refactorthis/angular-component-seed.git)
+[https://github.com/codehangar/ng-copy-text.git](https://github.com/codehangar/ng-copy-text.git)
